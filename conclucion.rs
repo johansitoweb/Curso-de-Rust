@@ -1,0 +1,1 @@
+//Rust es un lenguaje potente que combina rendimiento y seguridad. Tiene un enfoque único en la gestión de memoria, evitando errores comunes que se encuentran en otros lenguajes. A través de ejemplos sencillos, hemos cubierto desde la creación de un programa básico hasta temas intermedios como el ownership y la gestión de memoria.
